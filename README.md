@@ -11,6 +11,8 @@ As aplicações da ciência de dados são vastas e podem ser encontradas em vár
 ## **✨ Características**
 
 - [x] Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in;
+- [x] Orientação a objetos;
+
 
 ## **🛠️ Ferramentas/Tecnologia**
 
